@@ -18,7 +18,7 @@ This is an e-commerce application with pagination, filtering by category and pri
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/blog-app.git`
+1. Clone the repository: `git clone https://github.com/abhi07070/E-commerce_app.git`
 2. Install dependencies for client: `cd client && npm install`
 3. Install dependencies for server: `npm install`
 4. Start the client: `cd client && npm run start`
